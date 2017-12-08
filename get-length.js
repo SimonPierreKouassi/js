@@ -10,6 +10,7 @@
 
 // Your code :
 
+const getLength = ceci => ceci.length
 //* Begin of tests
 const assert = require('assert')
 

@@ -11,7 +11,8 @@
  */
 
 // Your code :
-
+const abs = ( a ) => (a >= 0 ? a : -a)
+console.log(abs(42))
 //* Begin of tests
 const assert = require('assert')
 

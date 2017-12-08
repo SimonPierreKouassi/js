@@ -9,7 +9,8 @@
  */
 
 // Your code :
-
+const getFirst = simon => simon[0]
+console.log(getFirst('simon'))
 //* Begin of tests
 const assert = require('assert')
 

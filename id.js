@@ -8,7 +8,8 @@
  */
 
 // Your code :
-
+const id = ceci => ceci
+console.log(id)
 //* Begin of tests
 const assert = require('assert')
 

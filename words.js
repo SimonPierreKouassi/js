@@ -6,7 +6,7 @@
  *
  * @next total
  */
-
+const word = 'simon' => 
 
 //* Begin of tests
 const assert = require('assert')

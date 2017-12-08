@@ -9,6 +9,8 @@
  */
 
 // Your code :
+const getLast = pierre => pierre[pierre.length-1]
+console.log(getLast('pierre'))
 
 //* Begin of tests
 const assert = require('assert')
