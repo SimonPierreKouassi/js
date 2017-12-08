@@ -6,7 +6,13 @@
  *
  * @next total
  */
-const word = 'simon' => 
+const words = x =>{
+  let result = ''
+  for (let i = 0; i < x.length; i++) {
+    result += x[i]
+  }
+  return result 
+}
 
 //* Begin of tests
 const assert = require('assert')
